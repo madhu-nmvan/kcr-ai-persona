@@ -9,7 +9,7 @@ Load the reference file(s) that match the area you're touching. For reviews or a
 
 ## References
 
-- [typescript.md](typescript.md) — function signatures, `any`, import aliases
+- [python.md](python.md) — function signatures, `any`, import aliases
 - [database.md](database.md) — schema conventions: ids, timestamps, booleans, soft deletes, prices, db instance
 - [services-and-testing.md](services-and-testing.md) — service result pattern, vitest setup, db mocking
 - [routes-and-forms.md](routes-and-forms.md) — React Router v7 routes, form validation, discriminated unions, auth
